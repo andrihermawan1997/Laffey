@@ -14,7 +14,7 @@
       "IDENTIFIER": "Haruka Music",
       "RETRY_AMOUNT": 3,
       "RETRY_DELAY": 1000,
-      "SECURE": false
+      "SECURE": true
     }
   ],
   "AUTO_RESUME_DELAY": 1500,
