@@ -8,10 +8,10 @@
   "KSOFT_API_KEY": "",
   "NODES": [
     {
-      "HOST": "",
-      "PASSWORD": "",
-      "PORT": 80,
-      "IDENTIFIER": "",
+      "HOST": "main.paras888.repl.co",
+      "PASSWORD": "youshallnotpass",
+      "PORT": 443,
+      "IDENTIFIER": "Haruka Music",
       "RETRY_AMOUNT": 3,
       "RETRY_DELAY": 1000,
       "SECURE": false
